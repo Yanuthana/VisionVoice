@@ -1,0 +1,13 @@
+Home › GCSE/IGCSE Notes › Maths › Functions
+A function is really just another way of writing an equation. A function is  a way to analyse two unrelated set of numbers.
+Functions are a way of writing a process that happens to a number. For example, if I wanted to multiply my original number by 3, then subtract 6, I could write it as this function:f(x) = 3x-6.
+So if my original number was 10:f(10) = 3(10)-6f(10) = 30-6f(10) = 24
+Or if the original number was -12f(-12) = 3(-12)-6f(-12) = -36-6f(-12) = -42
+In the exam, they may phrase this type of question as "Evaluate f(10)" or "Evaluate f(-12)". This is the same type of question as shown above.
+For the questions below, lets use these two functions:f(x) = 2x+3g(x) = 7-4x
+1) What is gf(4)?This is the same as g(f(4)).So first, lets find f(4):f(4) = 2(4)+3f(4) = 8+3f(4) = 11Now we need to find g(11)g(11) = 7-4(11)g(11) = 7-44g(11) = -37Answer = -37
+2) Evaluate f²(2)This is the same as f(f(2))So first, lets find f(2)f(2) = 2(2)+3f(2) = 4+3f(2) = 7Now we need to find f(7)f(7) = 2(7)+3f(7) = 14+3f(7) = 17Answer = 17
+3) Solve f(x)=2g(x)We need to substitute in f(x) and g(x), then simplify:2x+3 = 2(7-4x)2x+3 = 14-8xTo find x, we need to make it the subject:10x+3=14 [added 8x]10x=11 [subtracted 3]x=1.1 [divided by 10]Answer = 1.1
+Inverse Functions are the reverse of normal functions. For example, I have the function 2x+3. This function gives me the answer when I input a number. But what if I wanted to find the original number from the answer? Say I have the answer of 49. I now want to know the function that would lead me to the original number - in other words, the inverse function of 2x+3:First, let y=2x+3. Then make x the subject of this equation:y=2x+32x=y-3x=(y-3)÷2Then, substitute the 'x' for a 'f^-1(x)' and the 'y' for an 'x' to get the inverse function:f^-1(x) = (x-3)÷2Since we already had the answer of 49, we place it in our inverse function to calculate the original number:(49-3)÷246÷2 = 23Answer = 23Use this method to get the inverse function or the original number
+OxNotes is used in thousands of classrooms across the globe. At the bottom of most pages are some questions for teachers to use, but of course anyone on the site can use these. More information on OxNotes in the classroom.Questions coming soon.
+‹ IGCSE Mathematics

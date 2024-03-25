@@ -1,0 +1,3 @@
+A function links two sets of numbers, like an equation. It describes a process, like multiplying by 3 and subtracting 6, represented as f(x) = 3x-6. Evaluating f(x) for a number, say f(10), calculates the result.
+
+Inverse functions reverse the process, finding the original number from the result. For f(x) = 2x+3, the inverse is f^-1(x) = (x-3)/2.
